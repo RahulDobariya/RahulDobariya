@@ -41,6 +41,9 @@ Hello! I'm a software developer with a passion for mobile app development and a 
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=RahulDobariya&show_icons=true&locale=en&layout=compact"     alt="stats-3"
 </p>
 
+<h1 align='center'>Thanks for stopping by!</h1>
+
+![MasterHead](https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572)
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=RahulDobariya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RahulDobariya&theme=dark&hide_border=false)<br/>
