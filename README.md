@@ -12,13 +12,12 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=&icon=1&color=5)](https://visitcount.itsvg.in) -->
 <br>
 
-# 💫 About Me:
-Hello! I'm a software developer with a passion for mobile app development and a growing interest in MERN Stack development. With two years of professional experience under my belt, I've been actively involved in creating robust and user-friendly applications using Flutter and Android technologies.<br><br>Skills and Expertise<br>Mobile App Development: I specialize in developing cross-platform mobile applications using Flutter and have hands-on experience in Android app development. I'm well-versed in building intuitive user interfaces, implementing complex functionality, and ensuring high-performance and reliability.<br><br>MERN Stack Development: Although my primary focus has been mobile app development, I'm also expanding my skill set by exploring the MERN (MongoDB, Express.js, React.js, Node.js) Stack. I'm excited about the potential of full-stack development and eager to dive deeper into this technology stack.<br><br>Open Source Contribution: I believe in the power of collaboration and open source. I actively contribute to open source projects to learn from others, improve my skills, and give back to the developer community. I'm always on the lookout for new opportunities to collaborate on meaningful open source projects.<br><br>What I'm Seeking<br>I'm currently seeking new opportunities to further enhance my skills and knowledge in the software development field. I'm open to both Flutter and Android development roles, as well as exploring MERN Stack development opportunities. I'm particularly interested in positions that allow me to work on challenging projects and contribute to the success of innovative and forward-thinking teams.<br><br>Let's Connect<br>If you're interested in collaborating on a project, discussing new opportunities, or have any questions, feel free to reach out to me. I'm open to connecting with fellow developers, sharing ideas, and exploring ways to make a positive impact through technology.<br><br>GitHub: github.com/RahulDobariya<br>Email: sendydobariya007@gmail.com<br>LinkedIn: linkedin.com/in/rahul-dobariya <br>Portfolio: https://rahuldobariya.github.io <br>Thank you for visiting my GitHub profile! I look forward to connecting with you.
+## 💫 About Me:
+Hello! I'm a software developer with a passion for mobile app development and a growing interest in MERN Stack development. With two years of professional experience under my belt, I've been actively involved in creating robust and user-friendly applications using Flutter and Android technologies.<br><br>Skills and Expertise<br>Mobile App Development: I specialize in developing cross-platform mobile applications using Flutter and have hands-on experience in Android app development. I'm well-versed in building intuitive user interfaces, implementing complex functionality, and ensuring high-performance and reliability.<br><br>MERN Stack Development: Although my primary focus has been mobile app development, I'm also expanding my skill set by exploring the MERN (MongoDB, Express.js, React.js, Node.js) Stack. I'm excited about the potential of full-stack development and eager to dive deeper into this technology stack.<br><br>Open Source Contribution: I believe in the power of collaboration and open source. I actively contribute to open source projects to learn from others, improve my skills, and give back to the developer community. I'm always on the lookout for new opportunities to collaborate on meaningful open source projects.<br><br>What I'm Seeking<br>I'm currently seeking new opportunities to further enhance my skills and knowledge in the software development field. I'm open to both Flutter and Android development roles, as well as exploring MERN Stack development opportunities. I'm particularly interested in positions that allow me to work on challenging projects and contribute to the success of innovative and forward-thinking teams.<br><br>Let's Connect<br>If you're interested in collaborating on a project, discussing new opportunities, or have any questions, feel free to reach out to me. I'm open to connecting with fellow developers, sharing ideas, and exploring ways to make a positive impact through technology.<br><br>Thank you for visiting my GitHub profile! I look forward to connecting with you.
+<br>Email: sendydobariya007@gmail.com 
+<br>
+👨‍💻 All of my projects are available at &nbsp; <a href="https://rahuldobariya.github.io" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-purple?style=for-the-badge&logo=Github&logoColor=white" alt="Rahul" /></a>
 
- <div>
-                <h2>Portfolio</h2>
-                <a href="https://rahuldobariya.github.io">Portfolio</a>
-        </div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahul-dobariya/) 
@@ -29,7 +28,7 @@ Hello! I'm a software developer with a passion for mobile app development and a 
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RahulDobariya" alt="jitendra4545" />
+    <img src="https://github-profile-trophy.vercel.app/?username=RahulDobariya" alt="" />
   </a>
 </p>
 
